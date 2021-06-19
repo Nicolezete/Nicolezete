@@ -1,11 +1,11 @@
 <h1 align = "center"> Bem vindo ao meu mundinho de repositórios </h1>
  <img align="left" alt="Gif-Retrowave" height="120em" src="https://i.pinimg.com/originals/8e/5b/8b/8e5b8b8549437138df2c080582a55c45.gif">
- <p align="justify"> Prazer, meu nome é <strong>Nicole Rodrigues</strong>, tenho 17 anos e atualmente estudo no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Meu objetivo é ingressar no mercado de trabalho como Desenvolvedora Full Stack.</p>
+ <p align="justify"> Prazer, meu nome é <strong>Nicole Rodrigues</strong>, tenho 17 anos e atualmente estudo no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Estou no terceino ano do ensino médio integrado ao técnino em informática e meu objetivo é ingressar no mercado de trabalho como Desenvolvedora Full Stack.</p>
  
  <div>
   <a href="https://github.com/Nicolezete">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolezete&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolezete&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolezete&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicole-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
