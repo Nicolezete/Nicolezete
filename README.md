@@ -1,6 +1,6 @@
 ## Bem vindo ao meu mundinho de repositórios
  <div>
- <img align="left" src="https://github.com/Nicolezete/Nicolezete/blob/main/nicole-programming.jpg">
+ <img align="left" style="width: 30%;" src="https://github.com/Nicolezete/Nicolezete/blob/main/nicole-programming.jpg" alt="Vetor Working Woman Programmer">
  <p align="justify"> Prazer, meu nome é <strong>Nicole Rodrigues</strong>, tenho 17 anos e atualmente estudo no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Meu objetivo é ingressar no mercado de trabalho como Desenvolvedora Full Stack.</p>
 
   <a href="https://github.com/Nicolezete">
