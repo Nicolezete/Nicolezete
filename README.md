@@ -1,5 +1,5 @@
 <h1 align = "center"> Bem vindo ao meu mundinho de repositórios </h1>
- <img align="right" style="width: 30%;" src="https://raw.githubusercontent.com/Nicolezete/Nicolezete/main/Vetor%20nicole-programming.png" alt="Vetor Working Woman Programmer">
+ <img align="right" alt="Gif-Retrowave" src="https://i.pinimg.com/originals/8e/5b/8b/8e5b8b8549437138df2c080582a55c45.gif">
  <p align="justify"> Prazer, meu nome é <strong>Nicole Rodrigues</strong>, tenho 17 anos e atualmente estudo no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Meu objetivo é ingressar no mercado de trabalho como Desenvolvedora Full Stack.</p>
  
  <div>
@@ -15,7 +15,6 @@
   <img align="center" alt="Nicole-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nicole-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nicole-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Gif-Retrowave" src="https://i.pinimg.com/originals/8b/67/5e/8b675e441b9acf0aa9fbcb5027a08268.gif">
 </div>
   
   ##
