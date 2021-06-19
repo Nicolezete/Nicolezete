@@ -1,5 +1,5 @@
 <h1 align = "center"> Bem vindo ao meu mundinho de repositórios </h1>
- <img align="left" src="https://raw.githubusercontent.com/Nicolezete/Nicolezete/main/Vetor%20nicole-programming.png" alt="Vetor Working Woman Programmer">
+ <img align="right" style="width: 30%;" src="https://raw.githubusercontent.com/Nicolezete/Nicolezete/main/Vetor%20nicole-programming.png" alt="Vetor Working Woman Programmer">
  <p align="justify"> Prazer, meu nome é <strong>Nicole Rodrigues</strong>, tenho 17 anos e atualmente estudo no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Meu objetivo é ingressar no mercado de trabalho como Desenvolvedora Full Stack.</p>
  
  <div>
