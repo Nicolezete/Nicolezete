@@ -7,8 +7,8 @@
  
  <div>
   <a href="https://github.com/Nicolezete">
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=nicolezete&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolezete&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=nicolezete&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolezete&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
   <img align="center" alt="Nicole-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Nicole-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
-  <img align="right" height="80em" src="https://github.com/Nicolezete/Nicolezete/blob/main/Vetor%20nicole-programming.png" >
+  <img align="right" height="80em" src="https://i.pinimg.com/originals/4a/ff/a0/4affa0f1f9da41409869f7da57e0f88c.gif" >
 </div>
   
   ##
