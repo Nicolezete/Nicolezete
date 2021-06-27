@@ -9,6 +9,9 @@
   <a href="https://github.com/Nicolezete">
   <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolezete&layout=compact&langs_count=16&theme=dracula"/>
    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=nicolezete&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   
+   <a href = "https://app.rocketseat.com.br/me/nicole-rodrigues-00417" target="_blank"> <img align = "center" src = "https://raw.githubusercontent.com/Nicolezete/Nicolezete/49ec46366d0342b77cf721efc7ec878d4a2a3008/icon/rocketseat-original.svg" alt = " Nicole Rodrigues " height = " 40 " width =" 40 "/>
+    </a>
 </div>
  
 <div style="display: inline_block"><br>
