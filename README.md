@@ -9,9 +9,6 @@
   <a href="https://github.com/Nicolezete">
   <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolezete&layout=compact&langs_count=16&theme=dracula"/>
    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=nicolezete&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   
-   <a href = "https://app.rocketseat.com.br/me/nicole-rodrigues-00417" target="_blank"> <img align = "center" src = "https://cdn-images-1.medium.com/max/1200/1*TkXVfLTwsHdwpUEjGzdi9w.jpeg" alt = " Nicole Rodrigues " height = " 40 " width =" 40 "/>
-    </a>
 </div>
  
 <div style="display: inline_block"><br>
@@ -32,7 +29,8 @@
 <div> 
   <a href="https://www.instagram.com/nicolezete/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "nicolerodrigues.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nicole-rodrigues-686019211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/nicole-rodrigues-686019211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://app.rocketseat.com.br/me/nicole-rodrigues-00417" target="_blank"> <img align = "center" src = "https://cdn-images-1.medium.com/max/1200/1*TkXVfLTwsHdwpUEjGzdi9w.jpeg" alt = " Nicole Rodrigues " height = " 40 " width =" 40 "/></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
