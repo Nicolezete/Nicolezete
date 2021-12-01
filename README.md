@@ -2,7 +2,7 @@
  
  <div>
  <img align="left" alt="Gif-Retrowave" height="120em" src="https://i.pinimg.com/originals/8e/5b/8b/8e5b8b8549437138df2c080582a55c45.gif">
- <p align="justify"> Prazer, meu nome é <strong>Nicole Rodrigues</strong>, tenho 17 anos e atualmente estudo no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Estou no terceino ano do ensino médio integrado ao técnino em informática e meu objetivo é ingressar no mercado de trabalho como Desenvolvedora Full Stack. Sdaskjdbaskjd bask,asm sdkasbdaksjdbakjbi uebqiebqwkdjbsmds,dmandwnor ihweorhwefk nskfnsdmcnlk fierhteuytyiwuhir ngjknie nicole rodrigue olieira biarvis  didnwdi nicole rodrigues d olviera barbosa</p>
+ <p align="justify"> Prazer, meu nome é <strong>Nicole Rodrigues</strong>, tenho 17 anos e atualmente estudo no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Estou no terceino ano do ensino médio integrado ao técnino em informática e meu objetivo é ingressar no mercado de trabalho como Desenvolvedora Full Stack.</p>
  </div>
  
  <div>
