@@ -13,8 +13,8 @@
 </div>
  
 <div style="display: inline_block"><br>
-  <h3 align = "left">🖥️ Skills </h3>
   <hr>
+  <h3 align = "left">🖥️ Skills </h3>
  
   <p> Skills em desenvolvimento e aperfeiçoamento </p>
   <img align="center" alt="Nicole-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,8 +29,8 @@
 </div>
  
 <div>
- <h3 align = "left">📱 Venha me conhecer </h3>
  <hr>
+ <h3 align = "left">📱 Venha me conhecer </h3>
  <img align="right" height="80em" src="https://i.pinimg.com/originals/4a/ff/a0/4affa0f1f9da41409869f7da57e0f88c.gif" >
  
  <p> Entre em contato </p>
