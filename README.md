@@ -2,7 +2,7 @@
  
  <div>
  <img align="left" alt="Gif-Retrowave" height="120em" src="https://i.pinimg.com/originals/8e/5b/8b/8e5b8b8549437138df2c080582a55c45.gif">
- <p align="justify"> Prazer, meu nome é <strong>Nicole Rodrigues</strong>, tenho 17 anos e atualmente estudo no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Estou no terceino ano do ensino médio integrado ao técnino em informática e meu objetivo é ingressar no mercado de trabalho como Desenvolvedora Full Stack. No momento sou dev junior em front-end e alguns dos meus projetos estão salvos aqui.
+ <p align="justify"> Prazer, meu nome é <strong>Nicole Rodrigues</strong>, tenho 17 anos e atualmente estudo no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Estou no quarto ano do ensino médio integrado ao técnino em informática e meu objetivo é ingressar no mercado de trabalho como Desenvolvedora Full Stack. No momento sou dev junior em front-end e alguns dos meus projetos estão salvos aqui.
  Não programo em apenas HTML. As demais linguagens estão elencadas a seguir:</p>
  </div>
  
@@ -13,6 +13,8 @@
 </div>
  
 <div style="display: inline_block"><br>
+  <h3 align = "left">🖥️ Skills </h3>
+  <hr>
   <img align="center" alt="Nicole-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nicole-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nicole-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -28,6 +30,8 @@
   ##
  
 <div>
+ <h3 align = "left">📱 Venha me conhecer </h3>
+ <hr>
  <a href = "https://app.rocketseat.com.br/me/nicole-rodrigues-00417" target="_blank"> <img align = "center" src = "https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj" alt = "Nicole Rodrigues" height = " 40 " width =" 40 "/></a>
   <a href="https://www.instagram.com/nicolezete/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "nicolerodrigues.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
