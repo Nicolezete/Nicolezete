@@ -30,9 +30,11 @@
  
 <div>
  <h3 align = "left">📱 Venha me conhecer </h3>
+ <hr>
+ ##
+ <img align="right" height="80em" src="https://i.pinimg.com/originals/4a/ff/a0/4affa0f1f9da41409869f7da57e0f88c.gif" >
  
  <p> Entre em contato </p>
- <hr> <img align="right" height="80em" src="https://i.pinimg.com/originals/4a/ff/a0/4affa0f1f9da41409869f7da57e0f88c.gif" >
  <a href = "https://app.rocketseat.com.br/me/nicole-rodrigues-00417" target="_blank"> <img align = "center" src = "https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj" alt = "Nicole Rodrigues" height = " 40 " width =" 40 "/></a>
   <a href="https://www.instagram.com/nicolezete/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "nicolerodrigues.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
