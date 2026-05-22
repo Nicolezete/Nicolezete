@@ -1,26 +1,21 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=94EBAE&height=120&section=header" alt="header"/> 
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=94EBAE&width=435&lines=Nicole+Rodrigues;Cientista+de+Dados" alt="Data Scientist"/>
+</a>
 <h1 align = "center"> Bem vindo ao meu mundinho de repositórios </h1>
+
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,aws,sklearn,linux,bash,github,git,postgres,sqlite,mysql,docker,ubuntu,debian,redhat,windows)](https://skillicons.dev)
+
+### Secondary Skills
+[![Secondary Skills](https://skillicons.dev/icons?i=regex,html,css,bootstrap,js,nodejs,react,php,c,githubactions,azure,gcp,mongodb,atom,ansible,django,fastapi,flask,grafana,heroku,terraform,kubernetes,latex,nginx,arduino,raspberrypi,prometheus,notion)](https://skillicons.dev)
  
- <div>
- <img align="left" alt="Gif-Retrowave" height="120em" src="https://i.pinimg.com/originals/8e/5b/8b/8e5b8b8549437138df2c080582a55c45.gif">
- <p align="justify"> Prazer, meu nome é <strong>Nicole Rodrigues</strong>, tenho 17 anos e atualmente estudo no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Estou no quarto ano do ensino médio integrado ao técnino em informática e meu objetivo é ingressar no mercado de trabalho como Desenvolvedora Full Stack. No momento sou dev junior em front-end e alguns dos meus projetos estão salvos aqui.
- Não programo em apenas HTML. As demais linguagens estão elencadas a seguir:</p>
- </div>
  
- <div>
-  <a href="https://github.com/Nicolezete">
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolezete&layout=compact&langs_count=16&theme=dracula"/>
-   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=nicolezete&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
- 
-<div>
- <hr>
- <img align="right" height="80em" src="https://i.pinimg.com/originals/4a/ff/a0/4affa0f1f9da41409869f7da57e0f88c.gif" >
- 
- <p> Entre em contato </p>
- <a href = "https://app.rocketseat.com.br/me/nicole-rodrigues-00417" target="_blank"> <img align = "center" src = "https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj" alt = "Nicole Rodrigues" height = " 40 " width =" 40 "/></a>
-  <a href = "nicolerodrigues.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nicole-rodrigues-686019211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<i> Entre em contato! </i>
+</br>
+<a href = "nicolerodrigues.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nicole-rodrigues-686019211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=94EBAE&height=120&section=footer" alt="footer"/>
