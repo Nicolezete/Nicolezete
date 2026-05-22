@@ -5,10 +5,10 @@
 <h1 align = "center"> Bem vindo ao meu mundinho de repositórios </h1>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,aws,sklearn,linux,bash,github,git,postgres,sqlite,mysql,docker,ubuntu,debian,redhat,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,aws,azure,sklearn,linux,ubuntu,debian,windows,bash,github,git,postgres,sqlite,mysql,docker)](https://skillicons.dev)
 
 ### Secondary Skills
-[![Secondary Skills](https://skillicons.dev/icons?i=regex,html,css,bootstrap,js,nodejs,react,php,c,githubactions,azure,gcp,mongodb,atom,ansible,django,fastapi,flask,grafana,heroku,terraform,kubernetes,latex,nginx,arduino,raspberrypi,prometheus,notion)](https://skillicons.dev)
+[![Secondary Skills](https://skillicons.dev/icons?i=regex,html,css,bootstrap,js,nodejs,react,php,c,githubactions,gcp,mongodb,redhat,atom,ansible,django,fastapi,flask,grafana,heroku,terraform,kubernetes,latex,nginx,arduino,raspberrypi,prometheus,notion)](https://skillicons.dev)
  
  
 <i> Entre em contato! </i>
